@@ -2,11 +2,11 @@
 
 Heroku: https://stark-sands-62475.herokuapp.com/
 
+
 # Background
 
-![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
-
 This is an interactive dashboard exploring belly button biodiversity, based on the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
+
 
 ## Step 1 - Plotly.js
 
